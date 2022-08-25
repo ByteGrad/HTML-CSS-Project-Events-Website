@@ -1,6 +1,6 @@
 [![Watch tutorial here](https://img.youtube.com/vi/MdKdg9za08Q/0.jpg)](https://www.youtube.com/watch?v=MdKdg9za08Q)
 
-# Responsive Portfolio Website in HTML / CSS / JavaScript -- [Watch tutorial here](https://www.youtube.com/watch?v=MdKdg9za08Q)
+# HTML & CSS Project - Responsive Events Website (Animations, Flexbox, Grid) -- [Watch tutorial here](https://www.youtube.com/watch?v=MdKdg9za08Q)
 
 You can find all the copy-paste stuff in the 'resources.txt' file.
 
